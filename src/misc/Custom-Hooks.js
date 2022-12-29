@@ -17,7 +17,7 @@ function showsReducer(prevState, action) {
 }
 
 function usePersistedReducer(reducer, intialState, key) {
-  const [state, dispatch] = useReducer(useReducer, intialState, intial => {
+  const [state, dispatch] = useReducer(reducer, intialState, intial => {
     const persisted = localStorage.getItem(key);
 
     return persisted ? JSON.parse(persisted) : intial;

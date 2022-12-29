@@ -138,7 +138,7 @@ function Home (){
 
   const renderResults = () => {
 
-console.log('RESULTS',results);
+// console.log('RESULTS',results);
 
     if (results && results.length === 0) {
       return <div>No results</div>;
