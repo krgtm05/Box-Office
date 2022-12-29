@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/TicTacToe/static/css/main.b2586571.css",
-    "main.js": "/TicTacToe/static/js/main.56860ffa.js",
-    "service-worker.js": "/TicTacToe/service-worker.js",
-    "index.html": "/TicTacToe/index.html",
-    "main.b2586571.css.map": "/TicTacToe/static/css/main.b2586571.css.map",
-    "main.56860ffa.js.map": "/TicTacToe/static/js/main.56860ffa.js.map"
+    "main.css": "/Box-Office/static/css/main.b2586571.css",
+    "main.js": "/Box-Office/static/js/main.2aa1ef2d.js",
+    "service-worker.js": "/Box-Office/service-worker.js",
+    "index.html": "/Box-Office/index.html",
+    "main.b2586571.css.map": "/Box-Office/static/css/main.b2586571.css.map",
+    "main.2aa1ef2d.js.map": "/Box-Office/static/js/main.2aa1ef2d.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.56860ffa.js"
+    "static/js/main.2aa1ef2d.js"
   ]
 }
